@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "redis-with-core", "redis-with-core.csproj", "{A47DCC79-DBC1-4F10-805F-07B4B1C6A56E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A47DCC79-DBC1-4F10-805F-07B4B1C6A56E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A47DCC79-DBC1-4F10-805F-07B4B1C6A56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A47DCC79-DBC1-4F10-805F-07B4B1C6A56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A47DCC79-DBC1-4F10-805F-07B4B1C6A56E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00DEB9DC-AA87-42F9-8D73-F489A1DE3E99}
+	EndGlobalSection
+EndGlobal
